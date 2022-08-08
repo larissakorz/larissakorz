@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-<p> - I am currently studying on the Rocketseat platform, learning HTML, CSS, JavaScript, NodeJS, SQL and soon I'll be learning React</p>
+<p> - Atualmente estou estudando na plataforma Rocketseat, aprendendo HTML, CSS, JavaScript, NodeJS, SQL e em breve estarei aprendendo React</p>
 
 <p align="left" style="background:yellow">
 <h2>Contat</h2>
