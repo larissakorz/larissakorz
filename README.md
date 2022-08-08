@@ -5,7 +5,7 @@
 <p align="left" style="background:yellow">
 
 <a href="https://www.linkedin.com/in/larissa-korz-5b23a7164/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://www.linkedin.com/in/larissa-korz-5b23a7164/" alt="linkedin"/>
 </a>
 
 </p>
