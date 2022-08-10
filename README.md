@@ -1,7 +1,6 @@
 <div>
   <h1>Olá👋</h1>
   <p> - Atualmente estou estudando na plataforma Rocketseat, aprendendo HTML, CSS, JavaScript, NodeJS, SQL e em breve estarei aprendendo React</p>
-  <p align="left" style="background:yellow"></p>
 </div
 
 <div>
