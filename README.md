@@ -1,6 +1,6 @@
 <div>
   <h1>Olá👋</h1>
-  <p> - Atualmente estou estudando na plataforma Rocketseat, aprendendo HTML, CSS, JavaScript, NodeJS, SQL e em breve estarei aprendendo React</p>
+  <p> - Atualmente estou estudando na plataforma JStack, aprendendo Fundamentos do React</p>
 </div
 
 <div>
