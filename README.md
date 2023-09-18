@@ -4,7 +4,7 @@
 <p>📚 Realizando o Bootcamp da Laboratória Brasil</p>
 
 <div>
-  <a href="https://github.com/Giuthamie">
+  <a href="https://github.com/larissakorz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissakorz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakorz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
